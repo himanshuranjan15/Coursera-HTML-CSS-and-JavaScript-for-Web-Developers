@@ -1,15 +1,15 @@
 body {
     font-size: 16px;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Impact, fantasy', sans-serif;
     color: #1a1a1a;
-    background-color: #599e4b;
+    background-color: #eff3ee;
 }
 
 
 /** HEADER **/
 
 #header-nav {
-    background-color: #c98715;
+    background-color: #b6b5b3;
     border-radius: 0;
     border: 0;
 }
@@ -33,15 +33,15 @@ body {
 }
 
 .navbar-brand h1 {
-    color: #7d1913;
-    font-family: 'Abril Fatface', cursive;
+    color: #111010;
+    font-family: 'Impact, fantasy ', cursive;
     font-weight: bolder;
     font-size: 1.8em;
 }
 
 .navbar-brand a:hover {
     text-decoration: none;
-    text-shadow: 1px 1px 1px #fe9797;
+    text-shadow: 1px 1px 1px #f51313;
 }
 
 #nav-list {
@@ -49,7 +49,7 @@ body {
 }
 
 #nav-list a {
-    font-weight: bolder;
+    font-weight: normal;
     color: #282828;
     font-size: 1.2em;
 }
@@ -88,9 +88,8 @@ body {
 }
 
 #main-section {
-    background-color: #82d06b;
-    box-shadow: 0 0 50px #0f5900;
+    background-color: #b6b5b3;
+    box-shadow: 0 0 50px #8e9b87;
     padding: 30px;
 }
 
-/** END HOME PAGE **/
